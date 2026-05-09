@@ -1,29 +1,3 @@
-<h1 align="center">
-  <br>
-  <a href="https://github.com/ultrasecurity/Storm-Breaker"><img src=".imgs/1demo.png" alt="StormBreaker"></a>
-
-</h1>
-
-<h4 align="center">A Tool With Attractive Capabilities. </h4>
-
-<p align="center">
-
-  <a href="http://python.org">
-    <img src="https://img.shields.io/badge/python-v3-blue">
-  </a>
-  <a href="https://php.net">
-    <img src="https://img.shields.io/badge/php-7.4.4-green"
-         alt="php">
-  </a>
-
-  <a href="https://en.wikipedia.org/wiki/Linux">
-    <img src="https://img.shields.io/badge/Platform-Linux-red">
-  </a>
-
-</p>
-
-![demo](.imgs/screen1.jpeg)
-
 ### Features:
 
 - Obtain Device Information Without Any Permission !
@@ -54,14 +28,6 @@
 > This version can be run on both local host and your personal domain and host . However , you can use it for both situations. If your country has suspended the Ngrok service, or your country's banned Ngrok, or your victim can't open the Ngrok link (for the reasons such as : He sees such a link as suspicious, Or if this service is suspended in his country) We suggest using the tool on your personal host and domain .
 > <br>
 
-## Default username and password:
-
-- `username` : `admin`
-- `password` : `admin`
-- You can edit the config.php file to change the username and password .
-  <br>
-
-### Dependencies
 
 **`Storm Breaker`** requires following programs to run properly -
 
@@ -69,8 +35,6 @@
 - `python3`
 - `git`
 - `Ngrok`
-
-<!-- ![demo](.imgs/Work3.gif) -->
 <br>
 
 ### Platforms Tested
